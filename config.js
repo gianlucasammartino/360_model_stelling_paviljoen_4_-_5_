@@ -1,4 +1,4 @@
-<<<<<<< HEAD:mytour/config.js
+
 /*
 * Theasys
 * Generated on: Tuesday 16th of January 2024 10:48:21 PM
