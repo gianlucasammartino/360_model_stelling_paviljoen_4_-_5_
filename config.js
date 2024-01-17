@@ -7,6 +7,6 @@
 
 var vars = {
     file : 'index.html',
-    path : 'https://github.com/gianlucasammartino/360_model_stelling_paviljoen_4_-_5_/tree/main/mytour',//path to the index.html
+    path : 'https://github.com/gianlucasammartino/360_model_stelling_paviljoen_4_-_5_',//path to the index.html
     theme : 'theasys',
 };
